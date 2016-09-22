@@ -3,6 +3,7 @@
 
 #### Question: What makes fair use fair?  
 With the extent of today's media sources, the argument for where fair use is successful and not successful can get very controversial. There is an unclear line of where an interpretation of a media form turns from original to infringing on the copyright. On a site like youtube, copyright and fair use are two things that battle constantly. But there are four factors to keep in mind in order to determine whether or not the content is fair use. These four factors are:  
+
 1. _The purpose and character of your use_  
 2. _The nature of the copyrighted work_  
 3. _The amount and substantiality of the portion taken, and_  
