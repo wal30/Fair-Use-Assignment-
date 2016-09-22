@@ -1,4 +1,4 @@
-# Fair-Use-Assignment-
+# Fair Use Assignment  
 ## **Fair and Square** 
 #### _By: Wendy Alice Liroff_ 
 
