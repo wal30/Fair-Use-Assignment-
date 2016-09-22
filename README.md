@@ -1,6 +1,6 @@
 # Fair-Use-Assignment-
 ## **Fair and Square** 
-#### _By: Wendy Liroff_ 
+#### _By: Wendy Alice Liroff_ 
 
 #### Question: What makes fair use fair?
 With the extent of today's media sources, the argument for where fair use is successful and not successful can get very controversial. There is an unclear line of where an interpretation of a media form turns from original to infringing on the copyright. On a site like youtube, copyright and fair use are two things that battle constantly. But there are four factors to keep in mind in order to determine whether or not the content is fair use. These four factors are: 
