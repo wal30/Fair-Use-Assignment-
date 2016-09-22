@@ -4,10 +4,10 @@
 
 #### Question: What makes fair use fair?
 With the extent of today's media sources, the argument for where fair use is successful and not successful can get very controversial. There is an unclear line of where an interpretation of a media form turns from original to infringing on the copyright. On a site like youtube, copyright and fair use are two things that battle constantly. But there are four factors to keep in mind in order to determine whether or not the content is fair use. These four factors are:
-1. _The purpose and character of your use_
-2. _The nature of the copyrighted work_
-3. _The amount and substantiality of the portion taken, and_
-4. _The effect of the use upon the potential market_
+1. _The purpose and character of your use_  
+2. _The nature of the copyrighted work_  
+3. _The amount and substantiality of the portion taken, and_  
+4. _The effect of the use upon the potential market_  
 #### Can I have an example please?
 In order to better understand fair use, an example comes in handy. Most millenials have heard of or seen the nickelodeon show _Spongebob Squarepants_, yes? Well, there is a prime example of fair use that takes place as a remix, on youtube, of the infamous song,  
 [Krusty Krab Pizza.](https://www.youtube.com/watch?v=ww_t769yztI)  
