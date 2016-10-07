@@ -8,6 +8,7 @@ With the extent of today's media sources, the argument for where fair use is suc
 2. _The nature of the copyrighted work_  
 3. _The amount and substantiality of the portion taken, and_  
 4. _The effect of the use upon the potential market_  
+
 These four factors are not all that goes into deciding whether or not something is fair use, but they are the main four factors in order to produce a solid deffence in a case of fair use or copyright infringment 
 
 #### Can I have an example please?    
